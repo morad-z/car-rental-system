@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "company": "Toyota",
+      "type": "Sedan",
+      "price": 50,
+      "features": ["AC", "Bluetooth", "USB"],
+      "image": [
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+      ],
+      "description": "A reliable and fuel-efficient sedan perfect for daily commuting."
+    },
+    {
+      "id": 2,
+      "name": "Ford Mustang GT",
+      "company": "Ford",
+      "type": "Coupe",
+      "price": 120,
+      "features": ["AC", "Bluetooth", "Leather Seats", "Sport Mode"],
+      "image": [
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+      ],
+      "description": "A powerful and stylish coupe with excellent performance."
+    },
+    {
+      "id": 3,
+      "name": "Jeep Wrangler",
+      "company": "Jeep",
+      "type": "SUV",
+      "price": 90,
+      "features": ["4x4", "Removable Top", "Bluetooth"],
+      "image": [
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+      ],
+      "description": "A rugged and versatile SUV perfect for adventures."
+    },
+    {
+      "id": 4,
+      "name": "BMW M4 Convertible",
+      "company": "BMW",
+      "type": "Convertible",
+      "price": 150,
+      "features": ["AC", "Leather Seats", "Sport Mode", "Navigation"],
+      "image": [
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+      ],
+      "description": "A luxury convertible combining style and performance."
+    },
+    {
+      "id": 5,
+      "name": "Volkswagen Golf",
+      "company": "Volkswagen",
+      "type": "Hatchback",
+      "price": 60,
+      "features": ["AC", "Bluetooth", "Park Assist"],
+      "image": [
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+      ],
+      "description": "A practical and fun-to-drive hatchback."
+    },
+    {
+      "id": 6,
+      "name": "Ford F-150",
+      "company": "Ford",
+      "type": "Truck",
+      "price": 100,
+      "features": ["4x4", "Tow Package", "Bluetooth"],
+      "image": [
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+      ],
+      "description": "A capable and comfortable pickup truck."
+    }
+  ]
