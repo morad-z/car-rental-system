@@ -20,12 +20,10 @@ const Filters = ({ onFilterChange }) => {
   });
 
   const [features, setFeatures] = useState({
-    AC: true,
-    Bluetooth: true,
-    'Leather Seats': true,
-    'Sport Mode': true,
-    '4x4': true,
-    Navigation: true
+    '2 Person': true,
+    '4 Person': true,
+    '6 Person': true,
+
   });
 
   const [priceRange, setPriceRange] = useState([0, 200]);

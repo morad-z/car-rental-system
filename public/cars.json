@@ -5,9 +5,9 @@
       "company": "Toyota",
       "type": "Sedan",
       "price": 50,
-      "features": ["AC", "Bluetooth", "USB"],
+      "features": ["4 Person"],
       "image": [
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/e8526d4d-72a3-4a52-83c8-26109c213584?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
       ],
       "description": "A reliable and fuel-efficient sedan perfect for daily commuting."
     },
@@ -17,9 +17,9 @@
       "company": "Ford",
       "type": "Coupe",
       "price": 120,
-      "features": ["AC", "Bluetooth", "Leather Seats", "Sport Mode"],
+      "features": ["2 Person"],
       "image": [
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/a63bcce64e94da2677313f0e72065ec2ff4f4ee6e0f3695fe0b80e71a2c03d66?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
       ],
       "description": "A powerful and stylish coupe with excellent performance."
     },
@@ -29,9 +29,9 @@
       "company": "Jeep",
       "type": "SUV",
       "price": 90,
-      "features": ["4x4", "Removable Top", "Bluetooth"],
+      "features": ["4 Perosn"],
       "image": [
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/5ce85cf48604aa2526151b707a948b7e95887c6a9a567a90ba35b5c35f08a66d?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
       ],
       "description": "A rugged and versatile SUV perfect for adventures."
     },
@@ -41,9 +41,9 @@
       "company": "BMW",
       "type": "Convertible",
       "price": 150,
-      "features": ["AC", "Leather Seats", "Sport Mode", "Navigation"],
+      "features": ["2 Person"],
       "image": [
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/42f6083fcf1ee12011927e138c1d5125c422755e28f4ae519647ecf5140099bd?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
       ],
       "description": "A luxury convertible combining style and performance."
     },
@@ -53,9 +53,9 @@
       "company": "Volkswagen",
       "type": "Hatchback",
       "price": 60,
-      "features": ["AC", "Bluetooth", "Park Assist"],
+      "features": ["4 Person"],
       "image": [
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
+        "https://cdn.builder.io/api/v1/image/assets/TEMP/330940eece2b4658f87f4fa52769048170f0781592a28982933379606d79a9eb?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
       ],
       "description": "A practical and fun-to-drive hatchback."
     },
@@ -65,7 +65,7 @@
       "company": "Ford",
       "type": "Truck",
       "price": 100,
-      "features": ["4x4", "Tow Package", "Bluetooth"],
+      "features": ["6 Person"],
       "image": [
         "https://cdn.builder.io/api/v1/image/assets/TEMP/8dea3dcbfec4f0704e666cc5ee397fe9f927b4f6d2eb4a4aa8a9d6fe95ca3ea2?placeholderIfAbsent=true&apiKey=a5029d485e7a479984995e21bb32f7d5"
       ],
