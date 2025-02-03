@@ -51,17 +51,28 @@ const HomePage = () => {
     return (
         <Box sx={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
             <Header />
-            <SearchBar onSearch={handleSearch} />
+            
+            {/* Search Bar positioned below the header */}
+            <Box sx={{ display: 'flex', justifyContent: 'center', paddingTop: '20px' }}>
+                <SearchBar onSearch={handleSearch} />
+            </Box>
+
+            {/* Main content area with Filters and Car List */}
             <Container maxWidth="xl" sx={{ flex: 1, py: 3 }}>
                 <Grid container spacing={3}>
                     <Grid item xs={12} md={3}>
-                        <Filters onFilterChange={handleFilterChange} />
+                        {/* Filters Section with margin to the left */}
+                        <Box sx={{ marginLeft: '20px' }}>
+                            <Filters onFilterChange={handleFilterChange} />
+                        </Box>
                     </Grid>
                     <Grid item xs={12} md={9}>
+                        {/* Car List Section */}
                         <CarList cars={filteredCars} />
                     </Grid>
                 </Grid>
             </Container>
+
             <Footer />
         </Box>
     );

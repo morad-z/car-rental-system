@@ -31,7 +31,17 @@ const SearchBar = ({ onSearch }) => {
   };
 
   return (
-    <Box sx={{ width: '100%', maxWidth: 600, margin: '20px auto', p: 2 }}>
+    <Box
+      sx={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        width: '100%',
+        height: '100%', // Ensure it aligns with the header's height
+        padding: 0,
+        marginLeft: '16px', // Adjust left margin for spacing (optional)
+      }}
+    >
       <TextField
         fullWidth
         variant="outlined"
@@ -49,6 +59,10 @@ const SearchBar = ({ onSearch }) => {
               </IconButton>
             </InputAdornment>
           ),
+        }}
+        sx={{
+          height: '40px',  // Set the height to match the header
+          maxWidth: 400,  // Optional: Adjust the maximum width
         }}
       />
     </Box>
