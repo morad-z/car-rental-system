@@ -61,8 +61,8 @@ const SearchBar = ({ onSearch }) => {
           ),
         }}
         sx={{
-          height: '40px',  // Set the height to match the header
-          maxWidth: 400,  // Optional: Adjust the maximum width
+          height: '40px',
+          maxWidth: 400, 
         }}
       />
     </Box>

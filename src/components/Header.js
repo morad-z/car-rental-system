@@ -1,4 +1,3 @@
-// src/components/Header.js
 import React from 'react';
 import { AppBar, Toolbar, IconButton, Box } from '@mui/material';
 import { Link } from 'react-router-dom';
